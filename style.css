@@ -1,0 +1,51 @@
+body{
+  background-image: url(foto1.jpg);
+  background-size: 1550px 800px;
+
+}
+
+.inizio{
+  background-color: black;
+  opacity: 0.7;
+  height: 650px;
+  color: white;
+
+}
+.container{
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+.logo{
+  width: 200px;
+}
+.quadrato{
+  background-color: lime;
+  width: 1000px;
+  height: 30px;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+}
+.selezione{
+  width: 300px;
+  margin-left: 240px;
+
+}
+.energia{
+  width: 300px;
+  height: 20px;
+  background-color: yellow;
+}
+
+.energia2{
+  width: 500px;
+  height: 20px;
+  background-color: orange;
+}
+
+.energia3{
+  width: 100px;
+  height: 20px;
+  background-color: red;
+}
